@@ -1,0 +1,16 @@
+#Settings files for the project
+*.env
+portfolio_site/settings.py
+
+
+#Databases and media folders
+db.sqlite3
+media/
+media_cdn/
+static/
+static_cdn/
+
+#Misc
+requirements.txt
+portfolio_site/__pycache__/
+*.pyc
